@@ -4,7 +4,7 @@
 2. Top 5 Frameworks for Building AI Agents : 🔗 [Read the full article on LinkedIn](https://www.linkedin.com/posts/rananthanarayananofficial_agents-framework-activity-7294046596231544832-DYZv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3kBhQBid6et9hge9aBc_lrrLFcSKi8BrE)
 3. Beyond the Demo: Why LLM Agents Break in Production : 🔗 [Read the full article on LinkedIn](https://www.linkedin.com/posts/rananthanarayananofficial_agents-in-production-activity-7306295491929980929-guZc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3kBhQBid6et9hge9aBc_lrrLFcSKi8BrE)
 4. Essential Agentic pattenrs: Building Smarter AI Agents : 🔗 [Read the full article on LinkedIn](https://www.linkedin.com/posts/rananthanarayananofficial_agentic-pattern-activity-7347125813160382464-Phko?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3kBhQBid6et9hge9aBc_lrrLFcSKi8BrE)
-
+5. Is Context Engineering really all you need? : 🔗 [Read the full article on LinkedIn](https://www.linkedin.com/posts/rananthanarayananofficial_context-engineering-activity-7357454509603741697-oV4X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3kBhQBid6et9hge9aBc_lrrLFcSKi8BrE)
 
 
 📩 Reach out on LinkedIn: [Anantha Narayanan](https://www.linkedin.com/in/rananthanarayananofficial)
