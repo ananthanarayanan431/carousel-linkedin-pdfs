@@ -20,6 +20,7 @@
 ## **More Carousels**
 
 1. [10 Free Claude Skills Developers Should Know](10-Free-Claude-Skills-Developers-Should-Know.pdf)
+2. [12-Factor Agents](12-factor-agents-linkedin-carousel-notebook-anantha.pdf)
 
 
 📩 Reach out on LinkedIn: [Anantha Narayanan](https://www.linkedin.com/in/rananthanarayananofficial)
