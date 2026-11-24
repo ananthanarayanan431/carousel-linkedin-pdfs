@@ -17,5 +17,9 @@
 7. [Let AI do the busywork](ai-tools-series/Part-7-of-8-let-ai-do-the-busywork.pdf)
 8. [Creative AI tools, tested](ai-tools-series/Part-8-of-8-creative-ai-tools-tested.pdf)
 
+## **More Carousels**
+
+1. [10 Free Claude Skills Developers Should Know](10-Free-Claude-Skills-Developers-Should-Know.pdf)
+
 
 📩 Reach out on LinkedIn: [Anantha Narayanan](https://www.linkedin.com/in/rananthanarayananofficial)
